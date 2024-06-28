@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GilvanFlorindo
 - 👀 I’m interested in learning backend
-- 🌱 I’m currently learning laravel, c and robotic
+- 🌱 I’m currently learning  php(laravel), languague C , JavasScript and robotic
 - 💞️ I’m looking to collaborate on any type of projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me gilvanrebelo7@gmail.com 
 - ⚡ Fun fact: gamer and streamer
 
 <!---
